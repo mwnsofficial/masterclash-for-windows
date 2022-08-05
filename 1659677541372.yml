@@ -1,7 +1,7 @@
 proxies:
   - name: akunku
     type: vmess
-    server: kelas-beta.ruangguru.com
+    server: bugmu-isidisini.com
     port: "443"
     uuid: 81139d90-44e3-4033-9aff-fdb5660d1472
     alterId: 0
