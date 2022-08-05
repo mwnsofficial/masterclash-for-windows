@@ -4,28 +4,28 @@ files:
     name: config.yaml
     selected: []
   - url: ""
-    time: 1659720258509.yml
+    time: 1659677487083.yml
     name: game.yml
     selected: []
     interval: 0
     cron: ""
     headers: ""
   - url: ""
-    time: 1659720258586.yml
+    time: 1659677523789.yml
     name: umum.yml
     selected: []
     interval: 0
     cron: ""
     headers: ""
   - url: ""
-    time: 1659720258656.yml
+    time: 1659677537650.yml
     name: akun1.yml
     selected: []
     interval: 0
     cron: ""
     headers: ""
   - url: ""
-    time: 1659720258695.yml
+    time: 1659677541372.yml
     name: akun2.yml
     selected: []
     interval: 0
