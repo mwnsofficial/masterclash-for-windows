@@ -1,0 +1,42 @@
+files:
+  - url: ""
+    time: 1659720112329.yml
+    name: config.yaml
+    selected: []
+  - url: ""
+    time: 1659720258509.yml
+    name: game.yml
+    selected: []
+    interval: 0
+    cron: ""
+    headers: ""
+  - url: ""
+    time: 1659720258586.yml
+    name: umum.yml
+    selected: []
+    interval: 0
+    cron: ""
+    headers: ""
+  - url: ""
+    time: 1659720258656.yml
+    name: akun1.yml
+    selected: []
+    interval: 0
+    cron: ""
+    headers: ""
+  - url: ""
+    time: 1659720258695.yml
+    name: akun2.yml
+    selected: []
+    interval: 0
+    cron: ""
+    headers: ""
+  - url: ""
+    time: 1659720258802.yml
+    name: simaster-windows-v1.5yml
+    selected: []
+    mode: script
+    interval: 0
+    cron: ""
+    headers: ""
+index: 5

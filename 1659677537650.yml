@@ -1,0 +1,16 @@
+proxies:
+  - name: sshocean-masterwifii
+    type: vmess
+    server: kelas-beta.ruangguru.com
+    port: "443"
+    uuid: 81139d90-44e3-4033-9aff-fdb5660d1472
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /sshocean
+      headers:
+        Host: sg5.v2rayserv.com
+    _index: 0
