@@ -38,21 +38,19 @@ C:\Users\MASTERWIFI\.config\clash\profiles
 2. Setelah selesai anda copy paste, lalu file tadi anda masukkan juga ke Clash Windows pada bagian Profile
 
 3. Untuk memberi nama sebuah file dengan format .yml ini anda bisa mengikuti nya seperti di bawab ini.
+
 ```
 files:
-  - fath file: 1659720112329.yml
-    nama di profile: config.yaml
-
-  - fath file: 1659720258509.yml
+  - fath file: 1659677487083.yml
     nama di profile: game.yml
 
-  - fath file: 1659720258586.yml
+  - fath file: 1659677523789.yml
     nama di profile: umum.yml
 
-  - fath file: 1659720258656.yml
+  - fath file: 1659677537650.yml
     nama di profile: akun1.yml
 
-  - fath file: 1659720258695.yml
+  - fath file: 1659677541372.yml
     nama di profile: akun2.yml
     
   - fath file: 1659720258802.yml
