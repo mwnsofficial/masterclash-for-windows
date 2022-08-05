@@ -102,3 +102,5 @@ Jika Tutorial ini bermanfaat, anda bisa share ke sebanyak orang agar bisa berman
 Dan jangan lupa bagi yang belum subscribe silahkan di subcribe ya channel youtube Master Wifi Network Solution
 
 Sampai jumpa di tutorial selanjutnya
+
+Kembali ke [Beranda](https://mwnsofficial.github.io/masterconfig.github.io)
