@@ -14,7 +14,7 @@ Untuk install clash windows, ada beberapa syarat yang perlu anda ketahui terlebi
 
 Jika anda sudah mengetahui persyaratan nya, sekarang anda sudah bisa melewati langkah selanjutnya dengan menekan download clash windows di bawah ini.
 
-[DOWNLAOD](https://mwns.github.io) Clash For Windows)
+[DOWNLAOD](https://ponselharian.com/pDlmhY) Clash For Windows)
 
 ## Download config Clash Windows
 
@@ -22,7 +22,7 @@ Jika anda sudah mengetahui persyaratan nya, sekarang anda sudah bisa melewati la
 
 Untuk mendapatkan config dari Master Wifi Network Solution, anda hanya perlu menekan download di bawah ini.
 
-[DOWNLAOD](https://mwns.github.io) Script Config Clash For Windows)
+[DOWNLAOD](https://ponselharian.com/kmcyN) Script Config Clash For Windows)
 
 Jika sudah anda download, silahkan anda untuk melakukan ekstrak file formt zip ini
 
